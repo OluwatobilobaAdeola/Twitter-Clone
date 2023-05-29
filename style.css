@@ -241,7 +241,7 @@ h4:hover{
 .right-nav{
     width: 32%;
     border: 0.5px solid whitesmoke;
-    height: 100vh;
+    height: 100dvh;
     position: sticky;
     top: 0;
 }
